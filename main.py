@@ -24,3 +24,4 @@ num2 = int(input("Enter a second number\n\t>"))
 result2 = function_test(num1, num2)
 print(result2)
 #adding\n\t> at the end of a a prompt creates a nice looking, easy to read prompt.
+#end notes
